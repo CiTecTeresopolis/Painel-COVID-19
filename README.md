@@ -1,1 +1,2 @@
 # Painel-COVID-19
+O painel COVID é uma importante ferramenta de transparência pública com os dados abertos sobre evolução da pandemia do novo Coronavírus no município de Teresópolis, Estado do Rio de Janeiro e no Brasil. Implementado pelo Gabinete de Crise, o Painel, atualizado diariamente traz as informações de leitos disponíveis e ocupados, além de mostrar a evolução da doença separada por bairros e por faixa etária.
