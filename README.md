@@ -56,7 +56,7 @@ https://docs.google.com/spreadsheets/d/e/2PACX-1vR9mjufbqwJux-PAnqL8wbP02Sn40pTL
 
 **Screenshots**
 ![Painel COVID-19](https://teresopolis.rj.gov.br/wp-content/uploads/2022/01/WhatsApp-Image-2022-01-20-at-16.22.10.jpeg)
-
+ 
 **Incorpore nosso painel em sua página web:**
 ```
 <iframe title="Covid Teresópolis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNmFlNWY4MzgtZGQwMi00MmU4LTgyZDUtZTJhNGI5OTgzZDViIiwidCI6IjU3ZmM5ZTUyLTkxMzQtNDliMC05NTllLTBmNGUwODA0Zjk5MiJ9&pageName=ReportSection" frameborder="0" allowFullScreen="true"></iframe>
