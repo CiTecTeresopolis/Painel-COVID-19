@@ -8,7 +8,7 @@ Este é o repositório de dados do Painel COVID-19. Desenvolvido em parceria com
 http://painel.teresopolis.rj.gov.br/</br>
 
 **Fontes de dados:**</br>
-Esta lista inclui todas as fontes já usadas no painel, desde 21 de janeiro de 2010.  Algumas fontes listadas aqui (, etc) não são mais atualizadas.
+Esta lista inclui todas as fontes já usadas no painel, desde 27 de março de 2020.  Algumas fontes listadas aqui (Casos individuais, Isolamento da ABR Telecom, Sintomas monitorados pelo App MinhaSaude, etc.) não são mais atualizadas.
 - Casos individuais (Descontinuado):
 ```
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTZOvde6y03SqcMNgW1OxhF5wsI6SnhHAWQPxeysK_83vdeceylojP8wXyVexY3AWL0fR_oTag9nsGP/pubhtml
